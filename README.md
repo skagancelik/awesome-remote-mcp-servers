@@ -1562,6 +1562,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Laplace’s Mini World](https://world.lapla.si/en/api/) `https://world.lapla.si/mcp`
   [![Laplace’s Mini World MCP connector](https://glama.ai/mcp/connectors/io.github.Keith-CY/laplace-mini-world-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Keith-CY/laplace-mini-world-mcp)
   🔓 - Find and open 100+ interactive 3D science models live in the chat, in Chinese and English; read-only.
+- [Mentornity](https://www.mentornity.com/developers/mcp/?utm_source=awesome-remote-mcp-servers&utm_medium=directory&utm_campaign=listing) `https://api.mentornity.com/mcp`
+  [![Mentornity MCP connector](https://glama.ai/mcp/connectors/com.mentornity/mentornity/badges/score.svg)](https://glama.ai/mcp/connectors/com.mentornity/mentornity)
+  🔐 - Mentoring programs: find mentors, book and reschedule meetings, keep notes and next steps, fill in program forms.
 - [Moshid](https://moshid.com/connector) `https://moshid.com/api/mcp`
   [![Moshid MCP connector](https://glama.ai/mcp/connectors/com.moshid/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.moshid/mcp)
   🔐 - Arabic AI-at-work guides and Claude skills: search the catalog, read guides, install skills, get one next step.
